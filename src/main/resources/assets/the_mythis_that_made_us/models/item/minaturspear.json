@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "the_mythis_that_made_us:items/minatur_spear"
+  }
+}

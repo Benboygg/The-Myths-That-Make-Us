@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "the_mythis_that_made_us:items/minatur_hide_armor"
+  }
+}

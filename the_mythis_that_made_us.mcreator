@@ -1,0 +1,136 @@
+{
+  "mod_elements": [
+    {
+      "name": "Minatur",
+      "type": "livingentity",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minatur"
+    },
+    {
+      "name": "Minaturfur",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minaturfur"
+    },
+    {
+      "name": "Minatur_armorArmor",
+      "type": "armor",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minatur_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Minatur_armorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minatur_armor_armor_helmet_recipe"
+    },
+    {
+      "name": "Minatur_armorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minatur_armor_armor_body_recipe"
+    },
+    {
+      "name": "Minatur_armorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minatur_armor_armor_leggings_recipe"
+    },
+    {
+      "name": "Minatur_armorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minatur_armor_armor_boots_recipe"
+    },
+    {
+      "name": "Minaturhorn",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minaturhorn"
+    },
+    {
+      "name": "Minaturspear",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minaturspear"
+    },
+    {
+      "name": "Scale",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scale"
+    },
+    {
+      "name": "Minaturspearrecpie",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minaturspearrecpie"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.the_mythis_that_made_us.minaturhorn": "Minatur horn",
+      "item.the_mythis_that_made_us.minatur_armor_armor_chestplate": "Minatur_hide Chestplate",
+      "item.the_mythis_that_made_us.minatur_spawn_egg": "Minatur Spawn Egg",
+      "item.the_mythis_that_made_us.minatur_armor_armor_leggings": "Minatur_hide Leggings",
+      "item.the_mythis_that_made_us.scale": "Scale",
+      "item.the_mythis_that_made_us.minatur_armor_armor_boots": "Minatur_hide Boots",
+      "item.the_mythis_that_made_us.minaturspear": "Minaturspear",
+      "entity.the_mythis_that_made_us.minatur": "Minatur",
+      "item.the_mythis_that_made_us.minaturfur": "Minatur fur",
+      "item.the_mythis_that_made_us.minatur_armor_armor_helmet": "Minatur_hide Helmet"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "the_mythis_that_made_us",
+    "modName": "the mythis that made us",
+    "version": "1.0.0",
+    "author": "jlp8653, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "net.mcreator.themythisthatmadeus",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

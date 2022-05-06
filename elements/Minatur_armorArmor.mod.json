@@ -1,0 +1,62 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "mitatur_hide_armor",
+    "enableBody": true,
+    "textureBody": "minatur_hide_legginngs",
+    "enableLeggings": true,
+    "textureLeggings": "minatur_hide_armor",
+    "enableBoots": true,
+    "textureBoots": "minatur_hide_feet",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "minatur_armor",
+    "helmetName": "Minatur_hide Helmet",
+    "bodyName": "Minatur_hide Chestplate",
+    "leggingsName": "Minatur_hide Leggings",
+    "bootsName": "Minatur_hide Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 20,
+    "damageValueHelmet": 5,
+    "damageValueBody": 10,
+    "damageValueLeggings": 9,
+    "damageValueBoots": 5,
+    "enchantability": 16,
+    "toughness": 0.0,
+    "knockbackResistance": 1.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Minaturfur"
+      }
+    ]
+  }
+}

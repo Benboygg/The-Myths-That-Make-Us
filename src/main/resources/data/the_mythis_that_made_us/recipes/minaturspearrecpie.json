@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "the_mythis_that_made_us:minaturhorn"
+    },
+    "4": {
+      "item": "the_mythis_that_made_us:scale"
+    },
+    "6": {
+      "item": "the_mythis_that_made_us:scale"
+    }
+  },
+  "result": {
+    "item": "the_mythis_that_made_us:minaturspear",
+    "count": 1
+  }
+}

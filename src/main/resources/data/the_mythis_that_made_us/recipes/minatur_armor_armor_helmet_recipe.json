@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_nugget"
+    },
+    "2": {
+      "item": "minecraft:iron_nugget"
+    },
+    "3": {
+      "item": "the_mythis_that_made_us:minaturfur"
+    },
+    "4": {
+      "item": "the_mythis_that_made_us:minaturfur"
+    },
+    "5": {
+      "item": "the_mythis_that_made_us:minaturfur"
+    },
+    "6": {
+      "item": "the_mythis_that_made_us:minaturfur"
+    },
+    "8": {
+      "item": "the_mythis_that_made_us:minaturfur"
+    }
+  },
+  "result": {
+    "item": "the_mythis_that_made_us:minatur_armor_armor_helmet",
+    "count": 1
+  }
+}

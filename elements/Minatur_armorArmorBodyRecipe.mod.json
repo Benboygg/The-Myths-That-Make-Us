@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.IRON_NUGGET"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.IRON_NUGGET"
+      },
+      {
+        "value": "CUSTOM:Minaturfur"
+      },
+      {
+        "value": "CUSTOM:Minaturfur"
+      },
+      {
+        "value": "CUSTOM:Minaturfur"
+      },
+      {
+        "value": "CUSTOM:Minaturfur"
+      },
+      {
+        "value": "CUSTOM:Minaturfur"
+      },
+      {
+        "value": "CUSTOM:Minaturfur"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Minatur_armorArmor.body"
+    },
+    "name": "minatur_armor_armor_body_recipe",
+    "namespace": "mod"
+  }
+}
