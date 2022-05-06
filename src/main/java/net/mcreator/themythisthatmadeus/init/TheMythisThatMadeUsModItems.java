@@ -17,6 +17,8 @@ import net.mcreator.themythisthatmadeus.item.MinaturspearItem;
 import net.mcreator.themythisthatmadeus.item.MinaturhornItem;
 import net.mcreator.themythisthatmadeus.item.MinaturfurItem;
 import net.mcreator.themythisthatmadeus.item.Minatur_armorArmorItem;
+import net.mcreator.themythisthatmadeus.item.LegenddustItem;
+import net.mcreator.themythisthatmadeus.item.CeletialbronzeItem;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -35,6 +37,8 @@ public class TheMythisThatMadeUsModItems {
 	public static final Item MINATURHORN = register(new MinaturhornItem());
 	public static final Item MINATURSPEAR = register(new MinaturspearItem());
 	public static final Item SCALE = register(new ScaleItem());
+	public static final Item CELETIALBRONZE = register(new CeletialbronzeItem());
+	public static final Item LEGENDDUST = register(new LegenddustItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

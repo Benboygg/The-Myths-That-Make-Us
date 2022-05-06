@@ -1,19 +1,31 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "  2",
-    " 4 ",
-    "6  "
+    " 12",
+    "345",
+    "67 "
   ],
   "key": {
+    "1": {
+      "item": "the_mythis_that_made_us:legenddust"
+    },
     "2": {
       "item": "the_mythis_that_made_us:minaturhorn"
+    },
+    "3": {
+      "item": "the_mythis_that_made_us:legenddust"
     },
     "4": {
       "item": "the_mythis_that_made_us:scale"
     },
+    "5": {
+      "item": "the_mythis_that_made_us:legenddust"
+    },
     "6": {
       "item": "the_mythis_that_made_us:scale"
+    },
+    "7": {
+      "item": "the_mythis_that_made_us:legenddust"
     }
   },
   "result": {

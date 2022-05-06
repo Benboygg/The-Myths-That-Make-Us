@@ -93,21 +93,47 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "minaturspearrecpie"
+    },
+    {
+      "name": "Celetialbronze",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "celetialbronze"
+    },
+    {
+      "name": "Legenddust",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "legenddust"
+    },
+    {
+      "name": "Celetialbronzerecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "celetialbronzerecipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.the_mythis_that_made_us.minaturhorn": "Minatur horn",
+      "item.the_mythis_that_made_us.legenddust": "Legenddust",
       "item.the_mythis_that_made_us.minatur_armor_armor_chestplate": "Minatur_hide Chestplate",
       "item.the_mythis_that_made_us.minatur_spawn_egg": "Minatur Spawn Egg",
       "item.the_mythis_that_made_us.minatur_armor_armor_leggings": "Minatur_hide Leggings",
       "item.the_mythis_that_made_us.scale": "Scale",
-      "item.the_mythis_that_made_us.minatur_armor_armor_boots": "Minatur_hide Boots",
+      "item.the_mythis_that_made_us.celetialbronze": "Celetial bronze",
       "item.the_mythis_that_made_us.minaturspear": "Minaturspear",
       "entity.the_mythis_that_made_us.minatur": "Minatur",
-      "item.the_mythis_that_made_us.minaturfur": "Minatur fur",
+      "item.the_mythis_that_made_us.minaturhorn": "Minatur horn",
+      "item.the_mythis_that_made_us.minatur_armor_armor_boots": "Minatur_hide Boots",
+      "item.the_mythis_that_made_us.minaturfur": "Minatur hide",
       "item.the_mythis_that_made_us.minatur_armor_armor_helmet": "Minatur_hide Helmet"
     }
   },

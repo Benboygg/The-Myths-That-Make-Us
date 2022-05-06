@@ -3,12 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "minatur_fur",
+    "texture": "celestail_bronze",
     "customModelName": "Normal",
-    "name": "Minatur hide",
-    "rarity": "UNCOMMON",
+    "name": "Celetial bronze",
+    "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "MATERIALS"
     },
     "stackSize": 64,
     "enchantability": 0,

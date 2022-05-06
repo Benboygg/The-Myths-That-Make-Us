@@ -3,10 +3,10 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "minatur_fur",
+    "texture": "legend_dust",
     "customModelName": "Normal",
-    "name": "Minatur hide",
-    "rarity": "UNCOMMON",
+    "name": "Legenddust",
+    "rarity": "COMMON",
     "creativeTab": {
       "value": "MISC"
     },

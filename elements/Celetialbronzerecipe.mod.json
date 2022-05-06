@@ -5,30 +5,30 @@
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "recipeRetstackSize": 1,
+    "recipeRetstackSize": 2,
     "group": "",
     "recipeShapeless": false,
     "recipeSlots": [
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "Items.COPPER_INGOT"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "Items.COPPER_INGOT"
+      },
       {
         "value": ""
       },
       {
         "value": "CUSTOM:Legenddust"
-      },
-      {
-        "value": "CUSTOM:Minaturhorn"
-      },
-      {
-        "value": "CUSTOM:Legenddust"
-      },
-      {
-        "value": "CUSTOM:Scale"
-      },
-      {
-        "value": "CUSTOM:Legenddust"
-      },
-      {
-        "value": "CUSTOM:Scale"
       },
       {
         "value": "CUSTOM:Legenddust"
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Minaturspear"
+      "value": "CUSTOM:Celetialbronze"
     },
-    "name": "minaturspearrecpie",
+    "name": "celetialbronzerecipe",
     "namespace": "mod"
   }
 }
